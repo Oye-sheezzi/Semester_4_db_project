@@ -22,7 +22,7 @@ To run this project, ensure you have the following installed:
 
 1. **Clone the Repository**:
 2. 
-   git clone https://github.com/yourusername/simulation-bank.git
+   git clone https://github.com/Oye-sheezzi/Semester_4_db_project.git
    cd simulation-bank
 
 
