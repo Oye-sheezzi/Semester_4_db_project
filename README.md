@@ -49,9 +49,9 @@ To run this project, ensure you have the following installed:
    def db_connection():
        return mysql.connector.connect(
            host="localhost",
-           user="your_username",
-           password="your_password",
-           database="simulation_bank"
+           user="root",
+           password="",
+           database="simulation_bank_db"
        )
    ```
 
