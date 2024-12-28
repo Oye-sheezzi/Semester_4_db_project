@@ -63,7 +63,7 @@ To run this project, ensure you have the following installed:
 
 ## File Structure
 
-''''
+```
 .
 ├── main.py              # Entry point for the application
 ├── dashboard.py         # Contains the dashboard logic
@@ -71,7 +71,7 @@ To run this project, ensure you have the following installed:
 ├── images/              # Contains application images
 ├── README.md            # Project documentation
 └── database.sql         # Database schema and initial data
-''''
+```
 
 ## Screenshots
 
