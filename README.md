@@ -76,13 +76,13 @@ To run this project, ensure you have the following installed:
 ## Screenshots
 
 1. **Login Screen**:
-   ![Login Screen](images/login_screen.png)
+   ![Login Screen](images/login.png)
 
 2. **Dashboard**:
    ![Dashboard](images/dashboard.png)
 
 3. **Transaction History**:
-   ![Transaction History](images/transaction_history.png)
+   ![Transaction History](images/history.png)
 
 
 ## Acknowledgments
