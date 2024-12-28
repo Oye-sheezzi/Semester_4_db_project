@@ -22,15 +22,15 @@ To run this project, ensure you have the following installed:
 
 1. **Clone the Repository**:
 2. 
-   git clone https://github.com/Oye-sheezzi/Semester_4_db_project.git
-   cd simulation-bank
+   ```git clone https://github.com/Oye-sheezzi/Semester_4_db_project.git```
+  ``` cd simulation-bank```
 
 
 3. **Install Dependencies**:
 
    Install the required Python libraries:
 
-   pip install mysql-connector-python pillow
+   ```pip install mysql-connector-python pillow```
    
 4. **Setup Database**:
 
@@ -45,7 +45,7 @@ To run this project, ensure you have the following installed:
 
    Update the `db_connection()` function in `database.py` with your database credentials:
 
-   ```python
+   ```
    def db_connection():
        return mysql.connector.connect(
            host="localhost",
@@ -59,7 +59,7 @@ To run this project, ensure you have the following installed:
 
    Execute the main file:
 
-   python main.py
+   ```python main.py```
 
 ## File Structure
 
